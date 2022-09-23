@@ -1,0 +1,15 @@
+C:\Users\1077\source\repos\LadaTest\LadaTest\obj\Debug\net6.0\LadaTest.csproj.AssemblyReference.cache
+C:\Users\1077\source\repos\LadaTest\LadaTest\obj\Debug\net6.0\LadaTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1077\source\repos\LadaTest\LadaTest\obj\Debug\net6.0\LadaTest.AssemblyInfoInputs.cache
+C:\Users\1077\source\repos\LadaTest\LadaTest\obj\Debug\net6.0\LadaTest.AssemblyInfo.cs
+C:\Users\1077\source\repos\LadaTest\LadaTest\obj\Debug\net6.0\LadaTest.csproj.CoreCompileInputs.cache
+C:\Users\1077\source\repos\LadaTest\LadaTest\bin\Debug\net6.0\LadaTest.exe
+C:\Users\1077\source\repos\LadaTest\LadaTest\bin\Debug\net6.0\LadaTest.deps.json
+C:\Users\1077\source\repos\LadaTest\LadaTest\bin\Debug\net6.0\LadaTest.runtimeconfig.json
+C:\Users\1077\source\repos\LadaTest\LadaTest\bin\Debug\net6.0\LadaTest.dll
+C:\Users\1077\source\repos\LadaTest\LadaTest\bin\Debug\net6.0\LadaTest.pdb
+C:\Users\1077\source\repos\LadaTest\LadaTest\obj\Debug\net6.0\LadaTest.dll
+C:\Users\1077\source\repos\LadaTest\LadaTest\obj\Debug\net6.0\refint\LadaTest.dll
+C:\Users\1077\source\repos\LadaTest\LadaTest\obj\Debug\net6.0\LadaTest.pdb
+C:\Users\1077\source\repos\LadaTest\LadaTest\obj\Debug\net6.0\LadaTest.genruntimeconfig.cache
+C:\Users\1077\source\repos\LadaTest\LadaTest\obj\Debug\net6.0\ref\LadaTest.dll
