@@ -30,7 +30,7 @@ namespace LadaTest
                     Map = splitted[3],
                     score = int.Parse(splitted[4]),
                     Winlose = int.Parse(splitted[5]),
-                    kd = int.Parse(splitted[6]),
+                    kd = double.Parse(splitted[6]),
                     scorePerMinute = double.Parse(splitted[7]),
 
                 });
