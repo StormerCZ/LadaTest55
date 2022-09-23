@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -41,7 +41,7 @@ namespace LadaTest
 
             while (true)
             {
-                Console.WriteLine("Ahoj");
+                Console.WriteLine("Ahoj zadej user id a pokud jsi srac tak zmackni 0 abys odesel");
                 var ahmed = int.Parse(Console.ReadLine());
 
                 foreach (var ListItem in ListikBlato)
@@ -50,6 +50,11 @@ namespace LadaTest
                     {
                         var mathLadaFrajer = ListItem.score / ListItem.scorePerMinute;
                         Console.WriteLine($"Type {ListItem.Type}, score {ListItem.score} and lenght of match {mathLadaFrajer}");
+                    }
+
+                    if (ahmed == 0)
+                    {
+                        break;
                     }
                 }
 
